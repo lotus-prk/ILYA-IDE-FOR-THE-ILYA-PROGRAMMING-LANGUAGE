@@ -1,18 +1,19 @@
-# 🚀ILYA-IDE-FOR-THE-ILYA-PROGRAMMING-LANGUAGE 
+# 🚀 ILYA-IDE-FOR-THE-ILYA-PROGRAMMING-LANGUAGE
 
 <div align="center">
-  <img src="https://github.com/ilyaghaffary/ilyaghaffary/raw/main/assets/mm.gif" alt="Animated GIF" width="450"/>
-  <h1>ILYA: A New Programming Language and IDE</h1>
-  <p>A modern, high-performance programming language and an integrated development environment (IDE) built from the ground up to empower developers with a seamless coding experience.</p>
+  <img src="https://github.com/ilyaghaffary/ilyaghaffary/raw/main/assets/mm.gif" alt="Animated GIF" width="450"/>
+  <h1>ILYA: A New Programming Language and IDE</h1>
+  <p>A modern, high-performance programming language and an integrated development environment (IDE) built from the ground up to empower developers with a seamless coding experience.</p>
 </div>
 
 <div align="center">
-  <img src="https://github.com/ilyaghaffary/ilyaghaffary/raw/main/assets/welcome_coding.gif" alt="Animated Welcome" width="450"/>
+  <img src="https://github.com/ilyaghaffary/ilyaghaffary/raw/main/assets/welcome_coding.gif" alt="Animated Welcome" width="450"/>
 </div>
 
 <div align="center">
-  <img src="[https://github.com/ilyaghaffary/Ilia-IDE/raw/main/assets/icon.png](https://github.com/ilyaghaffary/ILYA-IDE-FOR-THE-ILYA-PROGRAMMING-LANGUAGE/blob/main/icon.png)" alt="ILYA App Icon" width="150"/>
+  <img src="https://github.com/ilyaghaffary/ILYA-IDE-FOR-THE-ILYA-PROGRAMMING-LANGUAGE/blob/main/icon.png?raw=true" alt="ILYA App Icon" width="150"/>
 </div>
+
 ---
 
 ## Key Features
@@ -22,16 +23,16 @@ This project offers a complete and efficient toolkit for developers, providing a
 - **Blazing Fast Compiler:** A custom-built compiler that translates Ilia source code into efficient intermediate code ⚡.
 - **Comprehensive Syntax & Lexical Analysis:** A robust `Lexer` and `Parser` to handle complex language structures and ensure code validity ✅.
 - **Intuitive IDE:** An integrated environment with a modern, cyberpunk theme 🌃 powered by PyQt6. It includes:
-  - **Syntax Highlighting:** A custom highlighter for Ilia's unique syntax, making your code readable and visually appealing ✨.
-  - **Code Editor:** A powerful text editor with line numbering, automatic indentation, and real-time error handling 📝.
-  - **Output Console:** An integrated console to view compiler output, warnings, and errors 🔍.
-  - **Project Explorer:** A tree view to manage and navigate your project files and directories 📂.
+  - **Syntax Highlighting:** A custom highlighter for Ilia's unique syntax, making your code readable and visually appealing ✨.
+  - **Code Editor:** A powerful text editor with line numbering, automatic indentation, and real-time error handling 📝.
+  - **Output Console:** An integrated console to view compiler output, warnings, and errors 🔍.
+  - **Project Explorer:** A tree view to manage and navigate your project files and directories 📂.
 - **Cross-Platform Compatibility:** Developed to run on multiple operating systems, including Windows 💻.
 
 ---
 
 <div align="center">
-  <img src="https://github.com/ilyaghaffary/ilyaghaffary/raw/main/assets/working_developer.gif" alt="Developer GIF" width="450"/>
+  <img src="https://github.com/ilyaghaffary/ilyaghaffary/raw/main/assets/working_developer.gif" alt="Developer GIF" width="450"/>
 </div>
 
 ---
@@ -49,7 +50,7 @@ Ilia is not just a language and IDE; it's a powerful tool for various developmen
 ---
 
 <div align="center">
-  <img src="https://github.com/ilyaghaffary/ilyaghaffary/raw/main/assets/tech_skills.gif" alt="Skills GIF" width="450"/>
+  <img src="https://github.com/ilyaghaffary/ilyaghaffary/raw/main/assets/tech_skills.gif" alt="Skills GIF" width="450"/>
 </div>
 
 ---
@@ -66,7 +67,7 @@ Contribute to the future improvement and development of the app by financially s
 ---
 
 <div align="center">
-  <img src="https://github.com/ilyaghaffary/ilyaghaffary/raw/main/assets/m.gif" alt="Final GIF" width="450"/>
+  <img src="https://github.com/ilyaghaffary/ilyaghaffary/raw/main/assets/m.gif" alt="Final GIF" width="450"/>
 </div>
 
 ---
