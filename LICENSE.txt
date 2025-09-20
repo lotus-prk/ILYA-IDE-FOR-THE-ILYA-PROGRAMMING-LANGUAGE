@@ -1,0 +1,9 @@
+Copyright (c) 2025 ILYA GHAFFARY. All Rights Reserved.
+
+This software is the intellectual property of ILYA GHAFFARY and is protected by copyright laws.
+
+The source code and all files associated with this software are proprietary and confidential. Any form of reverse engineering, decompilation, disassembly, extraction of source code, or unauthorized modification is strictly prohibited.
+
+You are hereby granted a non-exclusive, non-transferable license to use this software for its intended purpose only. You may not distribute, sublicense, or use this software in any manner not expressly permitted by this license.
+
+Violation of these terms may result in legal action.
