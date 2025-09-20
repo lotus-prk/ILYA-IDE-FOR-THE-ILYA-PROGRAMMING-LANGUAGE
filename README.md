@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/ilyaghaffary/ILYA-IDE-FOR-THE-ILYA-PROGRAMMING-LANGUAGE/blob/main/icon.png?raw=true" alt="ILYA App Icon" width="150"/>
+  <img src="https://github.com/ilyaghaffary/ILYA-IDE-FOR-THE-ILYA-PROGRAMMING-LANGUAGE/blob/main/icon.png?raw=true" alt="ILYA App Icon" width="500"/>
 </div>
 
 ---
