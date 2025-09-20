@@ -10,6 +10,9 @@
   <img src="https://github.com/ilyaghaffary/ilyaghaffary/raw/main/assets/welcome_coding.gif" alt="Animated Welcome" width="450"/>
 </div>
 
+<div align="center">
+  <img src="[https://github.com/ilyaghaffary/Ilia-IDE/raw/main/assets/icon.png](https://github.com/ilyaghaffary/ILYA-IDE-FOR-THE-ILYA-PROGRAMMING-LANGUAGE/blob/main/icon.png)" alt="ILYA App Icon" width="150"/>
+</div>
 ---
 
 ## Key Features
