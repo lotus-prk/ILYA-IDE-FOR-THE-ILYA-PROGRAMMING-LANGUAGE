@@ -2,7 +2,7 @@
 
 <div align="center">
   <img src="https://github.com/ilyaghaffary/ilyaghaffary/raw/main/assets/mm.gif" alt="Animated GIF" width="450"/>
-  <h1>Ilia: A New Programming Language and IDE</h1>
+  <h1>ILYA: A New Programming Language and IDE</h1>
   <p>A modern, high-performance programming language and an integrated development environment (IDE) built from the ground up to empower developers with a seamless coding experience.</p>
 </div>
 
