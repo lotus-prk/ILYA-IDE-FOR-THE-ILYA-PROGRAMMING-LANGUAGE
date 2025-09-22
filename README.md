@@ -23,7 +23,7 @@ This project offers a complete and efficient toolkit for developers, providing a
 - **Blazing Fast Compiler:** A custom-built compiler that translates Ilya source code into efficient intermediate code ⚡.
   
 - **Comprehensive Syntax & Lexical Analysis:** A robust `Lexer` and `Parser` to handle complex language structures and ensure code validity ✅.
-- 
+  
 - **Intuitive IDE:** An integrated environment with a modern, cyberpunk theme 🌃 powered by PyQt6. It includes:
   
   - **Syntax Highlighting:** A custom highlighter for Ilia's unique syntax, making your code readable and visually appealing ✨.
