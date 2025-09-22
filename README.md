@@ -20,7 +20,7 @@
 
 This project offers a complete and efficient toolkit for developers, providing a smooth and powerful coding experience.
 
-- **Blazing Fast Compiler:** A custom-built compiler that translates Ilia source code into efficient intermediate code ⚡.
+- **Blazing Fast Compiler:** A custom-built compiler that translates Ilya source code into efficient intermediate code ⚡.
 - **Comprehensive Syntax & Lexical Analysis:** A robust `Lexer` and `Parser` to handle complex language structures and ensure code validity ✅.
 - **Intuitive IDE:** An integrated environment with a modern, cyberpunk theme 🌃 powered by PyQt6. It includes:
   - **Syntax Highlighting:** A custom highlighter for Ilia's unique syntax, making your code readable and visually appealing ✨.
@@ -39,7 +39,7 @@ This project offers a complete and efficient toolkit for developers, providing a
 
 ## Extensive Applications
 
-Ilia is not just a language and IDE; it's a powerful tool for various development needs:
+Ilya is not just a language and IDE; it's a powerful tool for various development needs:
 
 - **For Beginners:** An intuitive and clean environment to learn the fundamentals of programming 🎓.
 - **For Hobbyists:** A fantastic platform for personal projects and experimentation 🧪.
